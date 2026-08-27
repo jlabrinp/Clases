@@ -1,11 +1,9 @@
-# Documento Principal (LaTeX / Overleaf)
+# Archivos y Documentos PDF
 
-A continuación se presenta la versión compilada del proyecto:
+## Presentación de Probabilidades
 
 <iframe src="../pdfs/main.pdf" width="100%" height="700px" style="border: none;">
-  Tu navegador no soporta visores PDF integrados.
+  Tu navegador no soporta el visor.
 </iframe>
 
-<br>
-
-[📥 Descargar archivo PDF](../pdfs/main.pdf){ .md-button .md-button--primary }
+[📥 Descargar PDF Directamente](../pdfs/main.pdf){ .md-button .md-button--primary }
