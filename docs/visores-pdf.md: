@@ -1,8 +1,11 @@
-# Archivos y Documentos PDF
+# Documento Principal (LaTeX / Overleaf)
 
-## Documento Principal (Overleaf)
-<object data="pdfs/main.pdf" type="application/pdf" width="100%" height="700px">
-  <p>Tu navegador no soporta visores PDF. <a href="pdfs/main.pdf">Descarga el PDF aquí</a>.</p>
-</object>
+A continuación se presenta la versión compilada del proyecto:
 
-[📥 Descargar PDF](pdfs/main.pdf){ .md-button .md-button--primary }
+<iframe src="../pdfs/main.pdf" width="100%" height="700px" style="border: none;">
+  Tu navegador no soporta visores PDF integrados.
+</iframe>
+
+<br>
+
+[📥 Descargar archivo PDF](../pdfs/main.pdf){ .md-button .md-button--primary }
